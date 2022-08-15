@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jonathan Mendes</h1>
+<h1 align="center">Olá, sou Jonathan Mendes</h1>
 <h2 align="center">Desenvolvedor Back-End</h2>
 
 <h4 align="center">Languages and Tools:</h4>
