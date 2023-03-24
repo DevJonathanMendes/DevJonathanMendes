@@ -2,7 +2,7 @@
 
 ## 📄 Estudando:
 - Segurança da Informação;
-- Sistema Operacional GNU/Linux (Kali, Debian).
+- GNU/Linux (Kali, Pop!_OS).
 
 ## 🛠️ Desenvolvendo:
 - API's CRUD;
@@ -12,7 +12,7 @@
 ## 💻 Aperfeiçoando | Mantendo:
 - Meus projetos pessoais no GitHub;
 - Meu RoadMap de estudos - Full Stack (+Back) Web.
-- Me preparando para em poucos meses, iniciar C#.
+- Me preparando para em poucas semanas, iniciar C#.
 
 
 <p align="center">
