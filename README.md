@@ -1,18 +1,18 @@
 # 📋 O que estou fazendo agora?
 
 ## 📄 Estudando:
+- Meu RoadMap de estudos - Full Stack (+Back) Web;
+- .NET C#;
 - Segurança da Informação;
 - GNU/Linux (Kali, Pop!_OS).
 
 ## 🛠️ Desenvolvendo:
-- API's CRUD;
 - Notas Autoadesivas;
 - Lista de Tarefas.
 
-## 💻 Aperfeiçoando | Mantendo:
-- Meus projetos pessoais no GitHub;
-- Meu RoadMap de estudos - Full Stack (+Back) Web.
-- Me preparando para em poucas semanas, iniciar C#.
+## 💻 Melhorando/Mantendo:
+- Meus projetos pessoais.
+
 
 
 <p align="center">
