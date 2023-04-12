@@ -4,7 +4,7 @@
 - Meu RoadMap de estudos - Full Stack (+Back) Web;
 - .NET C#;
 - Segurança da Informação;
-- GNU/Linux (Kali, Pop!_OS).
+- GNU/Linux (Kali).
 
 ## 🛠️ Desenvolvendo:
 - Notas Autoadesivas;
