@@ -13,7 +13,7 @@
 - GNU/Linux (Kali).
 
 ## 🛠️ Desenvolvendo:
-- Notas Autoadesivas.
+- ~~Notas Autoadesivas~~.
 
 ## 💻 Melhorando/Mantendo:
 - Meus projetos pessoais.
