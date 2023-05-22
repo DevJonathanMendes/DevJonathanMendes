@@ -6,14 +6,15 @@
 
 # 📋 O que estou fazendo agora?
 
-## 📄 Estudando:
+## 📚 Estudando:
 - Meu RoadMap Back-End;
 - .NET C#;
 - Cibersegurança;
 - GNU/Linux (Kali).
 
 ## 🛠️ Desenvolvendo:
-- ~~Notas Autoadesivas~~.
+- ~~Notas Autoadesivas~~;
+- App de produtividade para estudantes.
 
 ## 💻 Melhorando/Mantendo:
 - Meus projetos pessoais.
