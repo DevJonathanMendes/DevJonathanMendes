@@ -13,8 +13,8 @@
 - GNU/Linux (Kali).
 
 ## 🛠️ Desenvolvendo:
-- ~~Notas Autoadesivas~~;
-- App de produtividade para estudantes.
+- ~~Notas Autoadesivas;
+- ~~App de produtividade para estudantes?
 
 ## 💻 Melhorando/Mantendo:
 - Meus projetos pessoais.
