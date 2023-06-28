@@ -15,6 +15,7 @@
 ## 🛠️ Desenvolvendo:
 - ~~Notas Autoadesivas~~;
 - ~~App para estudantes com React Native~~?
+- ~~App~~?
 
 ## 💻 Melhorando/Mantendo:
 - Meus projetos pessoais.
