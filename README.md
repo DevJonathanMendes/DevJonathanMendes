@@ -4,21 +4,21 @@
   </a>
 </p>
 
-# 📋 O que estou fazendo agora?
+# 📋 Minhas Tarefas
 
-## 📚 Estudando:
-- Meu RoadMap Back-End;
+## 📚 Estudos:
+- RoadMap Back-End JS/TS;
 - .NET C#;
 - Cibersegurança;
 - GNU/Linux (Kali).
 
-## 🛠️ Desenvolvendo:
+## 🛠️ Desenvolvimento:
 - ~~Notas Autoadesivas~~;
-- ~~App para estudantes com React Native~~?
+- ~~App pomodoro com React Native~~?
 - ~~App~~?
 
-## 💻 Melhorando/Mantendo:
-- Meus projetos pessoais.
+## 💻 Manter:
+- Projetos pessoais.
 
 <p align="center">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devjonathanmendes&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="devjonathanmendes" />
