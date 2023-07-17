@@ -4,18 +4,17 @@
   </a>
 </p>
 
-# 📋 Minhas Tarefas
+# 📋 Tarefas
 
 ## 📚 Estudos:
 - RoadMap Back-End JS/TS;
-- .NET C#;
+- Back-End .NET C#;
 - Cibersegurança;
 - GNU/Linux (Kali).
 
-## 🛠️ Desenvolvimento:
+## 🛠️ Desenvolver:
 - ~~Notas Autoadesivas~~;
-- ~~App pomodoro com React Native~~?
-- ~~App~~?
+- ~~App com React Native~~
 
 ## 💻 Manter:
 - Projetos pessoais.
