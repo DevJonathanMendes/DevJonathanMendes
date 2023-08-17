@@ -33,7 +33,7 @@
 - [API CRUD - Puro](https://github.com/DevJonathanMendes/API-CRUD-Sem-Framework)
 - [API CRUD - Express e SQLITE e +](https://github.com/DevJonathanMendes/API-CRUD-Express.JS-SQLite)
 - [Sticky-Notes - React.JS/TS](https://github.com/DevJonathanMendes/Sticky-Notes)
-- [QuickWeather - React Native TS](https://github.com/DevJonathanMendes/QuickWeather)
+- [QuickWeather - React Native JS/TS](https://github.com/DevJonathanMendes/QuickWeather)
 ---
 <p align="center">
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devjonathanmendes&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="devjonathanmendes" />
