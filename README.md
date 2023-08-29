@@ -27,7 +27,7 @@
 - RoadMap Back-End JS/TS;
 - RoadMap Back-End .NET C#;
 - Cibersegurança;
-- GNU/Linux (Kali).
+- GNU/Linux (Kali/Mint).
 
 ## Alguns Projetos: 🛠️
 - [API CRUD - Puro](https://github.com/DevJonathanMendes/API-CRUD-Sem-Framework)
