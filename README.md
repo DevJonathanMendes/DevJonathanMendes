@@ -49,5 +49,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).
 - [QuickWeather - React Native JS/TS](https://github.com/DevJonathanMendes/QuickWeather)
 
 ---
-<img height=150 src="https://github-readme-stats.vercel.app/api/?username=devjonathanmendes&show_icons=true&theme=dark" />
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjonathanmendes&theme=dark&layout=compact" />
+
+<p>
+  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/?username=devjonathanmendes&show_icons=true&theme=dark" />
+  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjonathanmendes&theme=dark&layout=compact" />
+</p>
