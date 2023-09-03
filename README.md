@@ -36,7 +36,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).
  -->
 ### Studying 📚
 
-- RoadMap Back-End Node.JS/TS and .NET C#;
+- RoadMap Back-End Node.JS/TS;
+- RoadMap Back-End .NET C#;
 - Cybersecurity;
 - GNU/Linux (Kali/Mint).
 
@@ -48,5 +49,5 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).
 - [QuickWeather - React Native JS/TS](https://github.com/DevJonathanMendes/QuickWeather)
 
 ---
-<img height=180 src="https://github-readme-stats.vercel.app/api/?username=devjonathanmendes&show_icons=true&theme=dark" />
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjonathanmendes&theme=dark&layout=compact" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/?username=devjonathanmendes&show_icons=true&theme=dark" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjonathanmendes&theme=dark&layout=compact" />
