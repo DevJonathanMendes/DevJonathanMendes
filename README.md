@@ -14,11 +14,11 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=FFF)\
 ![React](https://img.shields.io/badge/React-60DBFC?&logo=react&logoColor=000)
 ![Jest](https://img.shields.io/badge/Jest-96737D?&logo=Jest&logoColor=FFF)
+![Winston](https://img.shields.io/badge/Winston-Log-0F0F0F?&logo=node.js&logoColor=FFF)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=FFF)
 ![C#](https://img.shields.io/badge/C%23-9A4993?&logo=c-sharp&logoColor=FFF)
 ![ASP.NET](https://img.shields.io/badge/ASP-1171BB?&logo=.NET&logoColor=FFF)
-
 
 ![MySQL](https://img.shields.io/badge/MySQL-26526D?&logo=mysql&logoColor=FFF)
 ![SQLite](https://img.shields.io/badge/SQLite-003956?&logo=sqlite&logoColor=FFF)
@@ -47,7 +47,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![Skill Icons](https://skillicons.dev/icons?i=react,electron,nest,adonis&theme=dark)\
 ![Skill Icons](https://skillicons.dev/icons?i=mysql,sqlite,redis,mongodb,firebase&theme=dark)\
 ![Skill Icons](https://skillicons.dev/icons?i=github,git,docker&theme=dark)
- -->
+-->
+
 ## Studying 📚
 
 - RoadMap Back-End Node.JS/TS;
@@ -58,7 +59,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ## Some Projects 🛠️
 
 - [API CRUD - Puro](https://github.com/DevJonathanMendes/API-CRUD-Sem-Framework)
-- [API CRUD - Express e SQLITE e +](https://github.com/DevJonathanMendes/API-CRUD-Express.JS-SQLite)
+- [API CRUD - Express e SQLite e +](https://github.com/DevJonathanMendes/API-CRUD-Express.JS-SQLite)
 - [Sticky-Notes - React.JS/TS](https://github.com/DevJonathanMendes/Sticky-Notes)
 - [QuickWeather - React Native JS/TS](https://github.com/DevJonathanMendes/QuickWeather)
 
