@@ -17,8 +17,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![Winston](https://img.shields.io/badge/Winston-Log-0F0F0F?&logo=node.js&logoColor=FFF)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=FFF)
-![C#](https://img.shields.io/badge/C%23-9A4993?&logo=c-sharp&logoColor=FFF)
 ![ASP.NET](https://img.shields.io/badge/ASP-1171BB?&logo=.NET&logoColor=FFF)
+![C#](https://img.shields.io/badge/C%23-9A4993?&logo=c-sharp&logoColor=FFF)
 
 ![MySQL](https://img.shields.io/badge/MySQL-26526D?&logo=mysql&logoColor=FFF)
 ![SQLite](https://img.shields.io/badge/SQLite-003956?&logo=sqlite&logoColor=FFF)
@@ -31,6 +31,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 
 ![Adonis](https://img.shields.io/badge/Adonis-5943FE?&logo=adonisjs&logoColor=FFF)
 ![Nest](https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=FFF)
+![Next](https://img.shields.io/badge/Next-000?&logo=next.js&logoColor=FFF)
 
 ![Docker](https://img.shields.io/badge/Docker-086DD7?&logo=docker&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-C83632?&logo=redis&logoColor=FFF)
@@ -54,7 +55,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 - RoadMap Back-End Node.JS/TS;
 - RoadMap Back-End .NET C#;
 - Cybersecurity;
-- GNU/Linux (Kali/Mint).
+- GNU/Linux.
 
 ## Some Projects 🛠️
 
@@ -64,6 +65,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 - [QuickWeather - React Native JS/TS](https://github.com/DevJonathanMendes/QuickWeather)
 
 ---
+
+<!-- markdownlint-disable MD001 MD033 MD045 -->
 
 <p>
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/?username=devjonathanmendes&show_icons=true&theme=dark" />
