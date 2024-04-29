@@ -9,6 +9,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 
 ### Main 🥇
 
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FFF)
+
 ![Node.JS](https://img.shields.io/badge/Node-69A163?&logo=node.js&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=FFF)\
@@ -23,7 +25,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 
 ![MySQL](https://img.shields.io/badge/MySQL-26526D?&logo=mysql&logoColor=FFF)
 ![SQLite](https://img.shields.io/badge/SQLite-003956?&logo=sqlite&logoColor=FFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-07AB4F?&logo=mongodb&logoColor=FFF)
+![Supabase](https://img.shields.io/badge/supabase-07AB4F?&logo=supabase&logoColor=FFF)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=FFF)
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=FFF)
@@ -35,9 +37,13 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![Next](https://img.shields.io/badge/Next-000?&logo=next.js&logoColor=FFF)
 ![Winston](https://img.shields.io/badge/Winston-Log-0F0F0F?&logo=node.js&logoColor=FFF)
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?&logo=postgresql&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-C83632?&logo=redis&logoColor=FFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-07AB4F?&logo=mongodb&logoColor=FFF)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA29?&logo=firebase&logoColor=FFF)
 
+
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=FFF)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-FFF?&logo=socket.io&logoColor=000)
 ![Express](https://img.shields.io/badge/Express-FFF?&logo=express&logoColor=000)
 ![Fastify](https://img.shields.io/badge/Fastify-FFF?&logo=Fastify&logoColor=000)
