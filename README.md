@@ -34,6 +34,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ### Secondary 🥈
 
 ![Adonis](https://img.shields.io/badge/Adonis-5943FE?&logo=adonisjs&logoColor=FFF)
+![TypeORM](https://img.shields.io/badge/TypeORM-000?&logo=TypeORM&logoColor=FFF)
 ![Next](https://img.shields.io/badge/Next-000?&logo=next.js&logoColor=FFF)
 ![Winston](https://img.shields.io/badge/Winston-Log-0F0F0F?&logo=node.js&logoColor=FFF)
 
