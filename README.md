@@ -15,7 +15,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=FFF)\
 ![Nest](https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=FFF)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=FFF)
+![TypeORM](https://img.shields.io/badge/TypeORM-000?&logo=TypeORM&logoColor=FFF)
 ![Jest](https://img.shields.io/badge/Jest-96737D?&logo=Jest&logoColor=FFF)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
@@ -34,7 +34,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ### Secondary 🥈
 
 ![Adonis](https://img.shields.io/badge/Adonis-5943FE?&logo=adonisjs&logoColor=FFF)
-![TypeORM](https://img.shields.io/badge/TypeORM-000?&logo=TypeORM&logoColor=FFF)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=FFF)
 ![Next](https://img.shields.io/badge/Next-000?&logo=next.js&logoColor=FFF)
 ![Winston](https://img.shields.io/badge/Winston-Log-0F0F0F?&logo=node.js&logoColor=FFF)
 
