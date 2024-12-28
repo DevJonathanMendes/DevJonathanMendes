@@ -41,7 +41,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?&logo=postgresql&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-C83632?&logo=redis&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-07AB4F?&logo=mongodb&logoColor=FFF)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA29?&logo=firebase&logoColor=FFF)
+<!--![Firebase](https://img.shields.io/badge/Firebase-FFCA29?&logo=firebase&logoColor=FFF)-->
 
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=FFF)
