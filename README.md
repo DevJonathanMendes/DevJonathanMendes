@@ -23,7 +23,8 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![ASP.NET](https://img.shields.io/badge/ASP-1171BB?&logo=.NET&logoColor=FFF)
 ![C#](https://img.shields.io/badge/C%23-9A4993?&logo=c-sharp&logoColor=FFF)
 
-![MySQL](https://img.shields.io/badge/MySQL-26526D?&logo=mysql&logoColor=FFF)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?&logo=postgresql&logoColor=FFF)
 ![SQLite](https://img.shields.io/badge/SQLite-003956?&logo=sqlite&logoColor=FFF)
 ![Supabase](https://img.shields.io/badge/Supabase-07AB4F?&logo=supabase&logoColor=FFF)
 
@@ -38,7 +39,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![Next](https://img.shields.io/badge/Next-000?&logo=next.js&logoColor=FFF)
 ![Winston](https://img.shields.io/badge/Winston-Log-0F0F0F?&logo=node.js&logoColor=FFF)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?&logo=postgresql&logoColor=FFF)
+![MySQL](https://img.shields.io/badge/MySQL-26526D?&logo=mysql&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-C83632?&logo=redis&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-07AB4F?&logo=mongodb&logoColor=FFF)
 <!--![Firebase](https://img.shields.io/badge/Firebase-FFCA29?&logo=firebase&logoColor=FFF)-->
