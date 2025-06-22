@@ -1,7 +1,7 @@
 # Hi! I am Jonathan Mendes 👋
 
 I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=FFF)](https://wa.me/+5521969611153)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=FFF)](https://wa.me/+5521996368572)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/jonatanbarreiro/)
 <!-- [![Views](https://visitcount.itsvg.in/api?id=DevJonathanMendes&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
 
@@ -23,7 +23,6 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![ASP.NET](https://img.shields.io/badge/ASP-1171BB?&logo=.NET&logoColor=FFF)
 ![C#](https://img.shields.io/badge/C%23-9A4993?&logo=c-sharp&logoColor=FFF)
 
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?&logo=postgresql&logoColor=FFF)
 ![SQLite](https://img.shields.io/badge/SQLite-003956?&logo=sqlite&logoColor=FFF)
 ![Supabase](https://img.shields.io/badge/Supabase-07AB4F?&logo=supabase&logoColor=FFF)
@@ -42,8 +41,7 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 ![MySQL](https://img.shields.io/badge/MySQL-26526D?&logo=mysql&logoColor=FFF)
 ![Redis](https://img.shields.io/badge/Redis-C83632?&logo=redis&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-07AB4F?&logo=mongodb&logoColor=FFF)
-<!--![Firebase](https://img.shields.io/badge/Firebase-FFCA29?&logo=firebase&logoColor=FFF)-->
-
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA29?&logo=firebase&logoColor=FFF) -->
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=FFF)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-FFF?&logo=socket.io&logoColor=000)
@@ -61,17 +59,20 @@ I'm a **back-end** developer; **Node.JS/TS** and **.NET C#** (ASP.NET Core).\
 
 ## Studying 📚
 
-- RoadMap Back-End Node.JS/TS;
-- RoadMap Back-End .NET C#;
+- Back-End
+  - Node JavaScript/TypeScript;
+  - .NET, C#;
 - Cybersecurity;
 - GNU/Linux.
 
+<!--
 ## Some Projects 🛠️
 
 - [API CRUD - Puro](https://github.com/DevJonathanMendes/API-CRUD-Sem-Framework)
 - [API CRUD - Express e SQLite e +](https://github.com/DevJonathanMendes/API-CRUD-Express.JS-SQLite)
 - [Sticky-Notes - React.JS/TS](https://github.com/DevJonathanMendes/Sticky-Notes)
 - [QuickWeather - React Native JS/TS](https://github.com/DevJonathanMendes/QuickWeather)
+-->
 
 ---
 
